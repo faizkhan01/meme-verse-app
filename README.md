@@ -15,6 +15,7 @@
 - Users can share memes
 - Users can see memes shared by other users in a newsfeed
 - Users also can like and comment on memes shared by other users
+- Users can search other users profile by using their email
 
 ### Technologies Used 
 - React.js

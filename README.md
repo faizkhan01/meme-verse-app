@@ -4,12 +4,13 @@
 
 ![MemeVerse Application](https://i.imgur.com/j0VWzhV.png)
 
-A MERN Stack Meme Sharing app where Users can register and login in the site, Users can share memes, Users can see memes shared by other users in a newsfeed and Users also can like and comment on memes shared by other users.
+## A MERN Stack Meme Sharing app where Users can register and login in the site, Users can share memes, Users can see memes shared by other users in a newsfeed and Users also can like and comment on memes shared by other users. The Forgot Password functionality is also implemented.
 
 ### Features
 - Responsive Site
 - JWT Authentication
 - Users can register and login
+- Forgot Password functionality
 - Users can see their own profile
 - Users can share memes
 - Users can see memes shared by other users in a newsfeed
